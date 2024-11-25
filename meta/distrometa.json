@@ -1,7 +1,7 @@
 {
   "$schema": "file:///home/julian/Development/Tests/Nebula/VelonaSMP2024/schemas/DistroMetaSchema.schema.json",
   "meta": {
-    "rss": "<LINK TO RSS FEED>",
+    "rss": "https://rss.ionnet.work/rss/VelonaSMP2024",
     "discord": {
       "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
