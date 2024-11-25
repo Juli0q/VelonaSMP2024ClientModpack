@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="optionaloff">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/servers/VelonaSMP 2024-1.21.1/fabricmods/optionaloff/Photonic-0.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/servers/VelonaSMP 2024-1.21.1/fabricmods/optionaloff/DistantHorizons-2.2.1-a-1.21.1-neo-fabric.jar!/" />
+      <root url="jar://$PROJECT_DIR$/servers/VelonaSMP 2024-1.21.1/fabricmods/optionaloff/DistantHorizons-Server-Site-fabric-2.3.0-b-dev-1.21.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/servers/VelonaSMP 2024-1.21.1/fabricmods/optionaloff/nvidium-0.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/servers/VelonaSMP 2024-1.21.1/fabricmods/optionaloff/immersive-portals-6.0.4-mc1.21.1-fabric.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

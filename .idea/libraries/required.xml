@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="required">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/servers/VelonaSMP 2024-1.21.1/fabricmods/required/Zoomify-2.14.2+1.21.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/servers/VelonaSMP 2024-1.21.1/fabricmods/required/BetterF3-11.0.3-Fabric-1.21.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/servers/VelonaSMP 2024-1.21.1/fabricmods/required/ImmersiveUI-FABRIC-0.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/servers/VelonaSMP 2024-1.21.1/fabricmods/required/architectury-13.0.8-fabric.jar!/" />
+      <root url="jar://$PROJECT_DIR$/servers/VelonaSMP 2024-1.21.1/fabricmods/required/Xaeros_Minimap_24.6.1_Fabric_1.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/servers/VelonaSMP 2024-1.21.1/fabricmods/required/sodium-fabric-0.6.0-beta.4+mc1.21.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/servers/VelonaSMP 2024-1.21.1/fabricmods/required/sound-physics-remastered-fabric-1.21.1-1.4.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/servers/VelonaSMP 2024-1.21.1/fabricmods/required/shulkerboxtooltip-fabric-5.1.2+1.21.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/servers/VelonaSMP 2024-1.21.1/fabricmods/required/voicechat-fabric-1.21.1-2.5.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/servers/VelonaSMP 2024-1.21.1/fabricmods/required/modmenu-11.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/servers/VelonaSMP 2024-1.21.1/fabricmods/required/entityculling-fabric-1.7.1-mc1.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/servers/VelonaSMP 2024-1.21.1/fabricmods/required/YetAnotherConfigLib-3.6.1+1.21-fabric.jar!/" />
+      <root url="jar://$PROJECT_DIR$/servers/VelonaSMP 2024-1.21.1/fabricmods/required/iris-fabric-1.8.0-beta.7+mc1.21.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/servers/VelonaSMP 2024-1.21.1/fabricmods/required/OctoLib-FABRIC-0.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/servers/VelonaSMP 2024-1.21.1/fabricmods/required/fabric-api-0.107.0+1.21.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/servers/VelonaSMP 2024-1.21.1/fabricmods/required/fabric-language-kotlin-1.12.3+kotlin.2.0.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/servers/VelonaSMP 2024-1.21.1/fabricmods/required/appleskin-fabric-mc1.21-3.0.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="shaderpacks">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/servers/VelonaSMP 2024-1.21.1/files/shaderpacks/ComplementaryReimagined_r5.3.zip!/" />
+      <root url="jar://$PROJECT_DIR$/servers/VelonaSMP 2024-1.21.1/files/shaderpacks/continuum-2.0.5.zip!/" />
+      <root url="jar://$PROJECT_DIR$/servers/VelonaSMP 2024-1.21.1/files/shaderpacks/ComplementaryUnbound_r5.3.zip!/" />
+      <root url="jar://$PROJECT_DIR$/servers/VelonaSMP 2024-1.21.1/files/shaderpacks/BSLOriginal_v8.3.zip!/" />
+      <root url="jar://$PROJECT_DIR$/servers/VelonaSMP 2024-1.21.1/files/shaderpacks/Sildur's Vibrant Shaders v1.52 Extreme.zip!/" />
+      <root url="jar://$PROJECT_DIR$/servers/VelonaSMP 2024-1.21.1/files/shaderpacks/Bliss-Shader-main.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
